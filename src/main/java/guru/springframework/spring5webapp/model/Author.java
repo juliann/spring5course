@@ -37,10 +37,8 @@ public class Author {
         + '\''
         + ", lastName='"
         + lastName
-        + '\''
-        + ", books="
-        + books
-        + '}';
+        + '\'';
+
   }
 
   public Author(String firstName, String lastName) {
